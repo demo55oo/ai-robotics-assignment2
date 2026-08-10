@@ -7,12 +7,18 @@ log/
 *.pyo
 .pytest_cache/
 
-# Local bags and recordings (upload separately; link in README)
+# Local bags / recordings (keep deliverables/ for submission)
 *.bag
-*_bag/
 cmd_vel_bag/
+*_bag/
+!deliverables/
+!deliverables/**
 *.mcap
+!deliverables/**/*.mcap
 *.db3
+!deliverables/**/*.db3
+cmd_vel_bag_short/
+cmd_vel_bag_short.tar.gz
 
 # Editor / OS
 .vscode/
