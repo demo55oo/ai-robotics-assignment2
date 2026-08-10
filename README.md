@@ -13,7 +13,6 @@ Repo: https://github.com/demo55oo/ai-robotics-assignment2
 - Bag: [`deliverables/cmd_vel_bag`](deliverables/cmd_vel_bag)
 - Lap time: _(fill from video)_
 
-Form: https://forms.gle/4SSA9fNCGhV3ynNx8
 
 ## What we did
 We bridge the Prius Sonoma world with `ros_gz_bridge` using `config/gz_sim_bridge_car.yaml`, then run two nodes:
