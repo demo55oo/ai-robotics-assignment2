@@ -1,0 +1,32 @@
+lane_detector:
+  ros__parameters:
+    roi_top_fraction: 0.50
+    canny_low: 50
+    canny_high: 150
+    hough_threshold: 40
+    hough_min_line_length: 40
+    hough_max_line_gap: 80
+    min_abs_slope: 0.30
+    hold_frames: 8
+    white_h_low: 0
+    white_s_low: 0
+    white_v_low: 180
+    white_h_high: 180
+    white_s_high: 60
+    white_v_high: 255
+    yellow_h_low: 15
+    yellow_s_low: 60
+    yellow_v_low: 80
+    yellow_h_high: 40
+    yellow_s_high: 255
+    yellow_v_high: 255
+
+lane_follower:
+  ros__parameters:
+    v_cruise: 2.0
+    kp: 1.4
+    kd: 0.35
+    max_w: 1.2
+    max_offset_for_full_speed: 0.35
+    timeout_sec: 0.5
+    control_rate_hz: 30.0

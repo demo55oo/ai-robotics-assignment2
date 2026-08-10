@@ -1,0 +1,29 @@
+# Colcon / ROS 2
+build/
+install/
+log/
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Local bags and recordings (upload separately; link in README)
+*.bag
+*_bag/
+cmd_vel_bag/
+*.mcap
+*.db3
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local course world binaries (do not redistribute unless allowed)
+course_assets/*.sdf
+course_assets/*.world
+course_assets/*.tar*
+course_assets/*.zip
+!course_assets/README.md
