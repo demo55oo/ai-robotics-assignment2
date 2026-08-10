@@ -1,6 +1,8 @@
 # Remaining manual steps (team)
 
-The code, bridge config, launch files, and GitHub repo scaffolding are ready. Finish these before the form:
+Repo is public: https://github.com/demo55oo/ai-robotics-assignment2
+
+Code, bridge config, launch files, and GitHub push are done. Finish these before the form:
 
 1. **Obtain the instructor Gazebo car world** and set `WORLD_PATH`.
 2. Practice until one clean in-lane lap (`v_cruise` start at 1.5–2.0).

@@ -1,6 +1,8 @@
 # AI for Robotics – Assignment 2  
 Gazebo–ROS 2 Bridging & Lane-Following Race
 
+**GitHub:** https://github.com/demo55oo/ai-robotics-assignment2
+
 ## Team
 
 | Name | ID |
