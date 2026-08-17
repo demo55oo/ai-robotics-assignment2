@@ -1,6 +1,6 @@
 # Assignment 2 – Lane following (Gazebo + ROS 2)
 
-**Demo video:** https://www.loom.com/share/8e428f7fa7424a02b02a66ab359df475
+**Demo video:** https://www.loom.com/share/1761c3ae3028425488cb573162f93b29
 
 Repo: https://github.com/demo55oo/ai-robotics-assignment2
 
@@ -12,7 +12,7 @@ Repo: https://github.com/demo55oo/ai-robotics-assignment2
 - Youssef abdelkader mohamed 23010144
 
 ## Links
-- Video: https://www.loom.com/share/8e428f7fa7424a02b02a66ab359df475
+- Video: https://www.loom.com/share/1761c3ae3028425488cb573162f93b29
 - Bag: [`deliverables/cmd_vel_bag`](deliverables/cmd_vel_bag)
 - Lap time: _(fill from video)_
 
